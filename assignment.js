@@ -1,6 +1,9 @@
+//      https://github.com/abhiakib24/assignment-js.git
 
 
-// // kilometerToMeter ---01
+
+
+ // kilometerToMeter ---01
    function kilometerToMeter (kilometer){
    var meter = kilometer / 1000;
    return meter
@@ -68,6 +71,6 @@ function megaFriend(){
 
 }
 var result = megaFriend();
-
+// console.log(result);
 
 
